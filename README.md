@@ -1,6 +1,8 @@
 # Natan_CODE
 <html>
-  <h>Добро пожаловать</h>
+  <body style="background color:lightblue">
+  <h1>Добро пожаловать</h1>
   <p>Мы рады вас видеть</p>
-  <a href="https://learn.algoritmika.org/course?module=3&lesson=6164"> На алгаритмику</a>
+  <b>Здесь вы научитесь писать коды на языках праграммирование таких как HTML,CSS,python,c++,Unity и другие</b>
+  </body>
 </html>
