@@ -13,11 +13,17 @@
         <td>время</td>
       </tr>
       <tr>
-        <td>водный урок</td>
+        <td>водный урок по HTML и CSS</td>
         <td>13.00</td>
       </tr>
+      <tr>
+        <td>водный урок по Python</td>
+        <td>14.00</td>
+      </tr>
   </table>
-  <
+  <img scr="
   
   </body>
 </html>
+
+
