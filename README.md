@@ -1,6 +1,6 @@
 # Natan_CODE
 <html>
-  <body style="background color:lightblue">
+  <body>
   <header>
     <a href="https://htmlbook.ru/html">сылка на справочнк</a>
   </header>
@@ -21,9 +21,6 @@
         <td>14.00</td>
       </tr>
   </table>
-  <img scr="
-  
-  </body>
 </html>
 
 
