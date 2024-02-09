@@ -1,6 +1,6 @@
 # Natan_CODE
 <html>
-  <body>
+  <body style="beckground-color: #d6ff00;">
   <header>
     <a href="https://htmlbook.ru/html">сылка на справочнк</a>
   </header>
@@ -24,7 +24,7 @@
   <footerb style="backgroud-color:#aeff00">
     <a href="https://www.w3schools.com/">сылка на сайт</a>
   </footer>
-
+  </body>
 </html>
 
 
