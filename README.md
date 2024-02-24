@@ -1,30 +1,19 @@
 # Natan_CODE
+<!DOCTYPE html>
 <html>
-  <body style="beckground-color: #d6ff00;">
-  <header>
-    <a href="https://htmlbook.ru/html">сылка на справочнк</a>
-  </header>
-    <h1>Добро пожаловать</h1>
-  <p>Мы рады вас видеть</p>
-  <b>Здесь вы научитесь писать коды на языках праграммирование таких как HTML,CSS,python,c++,Unity и другие</b>
-  <table>
-      <tr>
-        <td>уроки</td>
-        <td>время</td>
-      </tr>
-      <tr>
-        <td>водный урок по HTML и CSS</td>
-        <td>13.00</td>
-      </tr>
-      <tr>
-        <td>водный урок по Python</td>
-        <td>14.00</td>
-      </tr>
-  </table>
-  <footerb style="backgroud-color:#aeff00">
-    <a href="https://www.w3schools.com/">сылка на сайт</a>
-  </footer>
-  </body>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p>JavaScript can change HTML attribute values.</p>
+
+<p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
+
+<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
+
+<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
+
+</body>
 </html>
-
-
